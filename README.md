@@ -45,8 +45,7 @@ Each row has:
 ## 🔧 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/spam-email-detection.git
-   cd spam-email-detection
+   git clone https://github.com/gandhidev2005/MACHINE-LEARNING-MODEL-IMPLEMENTATION.git
    ```
 2. Install required packages:
    ```bash
@@ -54,7 +53,7 @@ Each row has:
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook spam_classifier_notebook.ipynb
+   jupyter notebook main.ipynb
    ```
 4. Run the cells and explore the model 🚀
 
